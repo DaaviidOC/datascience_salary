@@ -7,9 +7,9 @@
 
 ## Content
 This work consists of 3 documents: </br>
-  · CSV file that stores all data. </br>
-  · Jupyter file where all the work carried out is located and where the graphics are displayed. </br>
-  · Notes that collect all the conclusions of the analysis. </br>
+- CSV file that stores all data. </br>
+- Jupyter file where all the work carried out is located and where the graphics are displayed. </br>
+- Notes that collect all the conclusions of the analysis. </br>
 
 
 ## Contributions
