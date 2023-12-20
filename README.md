@@ -9,7 +9,7 @@
 The project comprises three main components: </br>
 - Data File (CSV): This file contains all the data used in the analysis. It encapsulates salary information for various job roles across different countries. </br>
 - Jupyter Notebook: Here, you'll find the detailed analysis, including data processing, exploratory analysis, and visualization. The notebook is structured to guide you through each step of the analysis, with comments and explanations. </br>
-- This document summarizes the key findings and insights derived from the data. It includes interpretations of the visualizations and the conclusions drawn from the analysis. </br>
+- Notes: This document summarizes the key findings and insights derived from the data. It includes interpretations of the visualizations and the conclusions drawn from the analysis. </br>
 
 
 ## Contributions
