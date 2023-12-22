@@ -6,24 +6,20 @@ This project involves an in-depth analysis of data science salaries for the year
 ## Data Source
 The analysis is grounded in a comprehensive dataset that includes various key attributes such as the work year, experience level, employment type, job title, gross salary, currency of salary, and the primary country of residence of the employee.
 
+## Tools used
+For data analysis and visualization, the notebook employs Python libraries including Matplotlib, Seaborn, Plotly, and Pandas.
+
 ## Key Findings and Insights
 
 - Trend Analysis: The analysis revealed significant trends in data science salaries relative to experience levels. 
 - Geographical Variations: The data indicates notable geographical variations in pay.
 - Impact of Remote Work: The project explored how remote work influences data science salaries.
   
-## Challenges and Solutions
-
-During the analysis, challenges such as [describe any challenges, e.g., 'dealing with missing data' or 'currency conversion for accurate comparison'] were encountered and addressed through [mention solutions, e.g., 'data imputation techniques' or 'currency normalization methods'].
-
-## Implications of Findings
-
-These findings are particularly relevant for [describe implications, e.g., 'job seekers in data science, employers looking to hire data science professionals, and educational institutions crafting data science curricula'].
-
-## Recommendations for Further Research
-
-Further research could explore [suggest areas, such as 'longitudinal salary trends in data science, the impact of educational background on salaries, or a comparative analysis of data science salaries with other tech roles'].
-
 ## Concluding Remarks
 
 This analysis offers valuable insights into the data science salary landscape, illuminating key factors that influence salaries in this evolving field. The findings provide actionable intelligence for stakeholders in the data science ecosystem, including students, professionals, recruiters, and policy makers in the tech industry.
+
+## Conclussions:
+- Salary Trends: The data science field exhibits a diverse range of salaries. Significant variations are observed depending on factors like the individual's level of experience and the size of their employer's company.
+- Impact of Remote Work: The analysis indicates a correlation between remote work and salary levels. This suggests that the capacity to work remotely might influence compensation in the data science sector.
+- Variability by Year and Experience: Salary levels have fluctuated over the years. Additionally, there is a noticeable disparity in salaries based on the level of experience, highlighting how experience influences earning potential in this field.
