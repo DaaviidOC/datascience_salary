@@ -10,13 +10,11 @@ The analysis is grounded in a comprehensive dataset that includes various key at
 For data analysis and visualization, the notebook employs Python libraries including Matplotlib, Seaborn, Plotly, and Pandas.
 
 ## Key Findings and Insights
-
 - Trend Analysis: The analysis revealed significant trends in data science salaries relative to experience levels. 
 - Geographical Variations: The data indicates notable geographical variations in pay.
 - Impact of Remote Work: The project explored how remote work influences data science salaries.
   
 ## Concluding Remarks
-
 This analysis offers valuable insights into the data science salary landscape, illuminating key factors that influence salaries in this evolving field. The findings provide actionable intelligence for stakeholders in the data science ecosystem, including students, professionals, recruiters, and policy makers in the tech industry.
 
 ## Conclussions:
